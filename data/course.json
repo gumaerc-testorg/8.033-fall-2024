@@ -35,7 +35,7 @@
   "course_title": "Introduction to Relativity and Spacetime Physics",
   "hide_download": false,
   "mit_learn_topics": [],
-  "course_description": "The goal of this course is to give you a thorough introduction to Einstein\u2019s special theory of relativity, and to give you a brief introduction to core concepts of Einstein\u2019s general theory of relativity. The course is designed to be accessible to first-semester sophomores, and suitable as one of the first \u201ccore major\u201d courses students encounter after completing the physics [General Institute Requirement](https://catalog.mit.edu/mit/undergraduate-education/general-institute-requirements/#sciencerequirementtext).",
+  "course_description": "The goal of this course is to give you a thorough introduction to Einstein\u2019s special theory of relativity, and to give you a brief introduction to core concepts of Einstein\u2019s general theory of relativity. The course is designed to be accessible to first-semester sophomores, and suitable as one of the first \u201ccore major\u201d courses students encounter after completing the physics {{% resource_link \"d05cd593-3d68-4347-94e5-0d48460ef707\" \"General Institute Requirement\" %}}.",
   "department_numbers": [
     "8"
   ],
